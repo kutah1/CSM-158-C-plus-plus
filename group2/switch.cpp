@@ -30,7 +30,7 @@ int main()
             break;
             case 'F':
             case 'f':
-            cout<<"Your grade is within the range of 30-39\n You have not qualified to be interviewed";
+            cout<<"Your grade is within the range of 30-39\n You have not qualified to be";
             break;
         
         default:  
