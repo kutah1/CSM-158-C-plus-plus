@@ -12,7 +12,12 @@ using namespace std;
 int main(){
 int arrayname[]={1,2,3,4,5};
 cout<<arrayname[3]<<endl;
-int arrayName[5][5]={{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5},{1,2,3,4,5}};
+int arrayName[5][5]={
+    {1,2,3,4,5},
+    {1,2,3,4,5},
+    {1,2,3,4,5},
+    {1,2,3,4,5},
+    {1,2,3,4,5}};
 cout<<arrayName[0][4]<<endl;
     return 0;
 }
